@@ -1,0 +1,8 @@
+platform,channel_type,commission_rate,order_share,pickup_share
+Talabat,Aggregator,0.25,0.32,0.04
+Deliveroo,Aggregator,0.27,0.17,0.03
+Careem,Aggregator,0.22,0.12,0.05
+Noon Food,Aggregator,0.20,0.08,0.03
+Website,Direct,0.00,0.09,0.18
+App,Direct,0.00,0.12,0.22
+Phone,Phone,0.00,0.10,0.35

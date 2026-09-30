@@ -1,0 +1,57 @@
+dish_id,dish,cuisine,category,price_aed,prep_minutes,popularity
+AR01,Hummus,Arabic,Starter,22,5,8
+AR02,Mutabbal,Arabic,Starter,22,5,4
+AR03,Fattoush,Arabic,Starter,24,6,6
+AR04,Chicken Shawarma Plate,Arabic,Main,38,12,10
+AR05,Mixed Grill,Arabic,Main,75,22,6
+AR06,Lamb Mandi,Arabic,Main,62,20,7
+AR07,Chicken Machboos,Arabic,Main,48,18,6
+AR08,Falafel Wrap,Arabic,Main,22,8,5
+AR09,Arabic Rice,Arabic,Side,12,5,5
+AR10,Kunafa,Arabic,Dessert,28,6,7
+AR11,Umm Ali,Arabic,Dessert,26,6,4
+AR12,Mint Lemonade,Arabic,Beverage,18,3,9
+IN01,Vegetable Samosa,Indian,Starter,16,6,6
+IN02,Paneer Tikka,Indian,Starter,32,12,7
+IN03,Chicken Tikka,Indian,Starter,36,12,7
+IN04,Chicken Biryani,Indian,Main,42,15,10
+IN05,Mutton Biryani,Indian,Main,52,18,6
+IN06,Butter Chicken,Indian,Main,45,15,9
+IN07,Dal Makhani,Indian,Main,32,10,6
+IN08,Palak Paneer,Indian,Main,34,12,5
+IN09,Garlic Naan,Indian,Side,8,4,10
+IN10,Jeera Rice,Indian,Side,14,4,6
+IN11,Gulab Jamun,Indian,Dessert,18,3,6
+IN12,Mango Lassi,Indian,Beverage,16,3,8
+IT01,Bruschetta,Italian,Starter,26,6,5
+IT02,Caesar Salad,Italian,Starter,32,6,6
+IT03,Margherita Pizza,Italian,Main,45,14,9
+IT04,Pepperoni Pizza,Italian,Main,52,14,8
+IT05,Penne Arrabbiata,Italian,Main,42,12,5
+IT06,Fettuccine Alfredo,Italian,Main,48,12,7
+IT07,Beef Lasagna,Italian,Main,55,16,6
+IT08,Garlic Bread,Italian,Side,18,6,8
+IT09,Tiramisu,Italian,Dessert,30,3,8
+IT10,Italian Lemon Soda,Italian,Beverage,18,3,5
+CH01,Spring Rolls,Chinese,Starter,22,8,8
+CH02,Hot and Sour Soup,Chinese,Starter,24,8,6
+CH03,Chicken Dim Sum,Chinese,Starter,34,12,5
+CH04,Chicken Manchurian,Chinese,Main,38,12,9
+CH05,Kung Pao Chicken,Chinese,Main,44,12,7
+CH06,Szechuan Beef,Chinese,Main,52,14,5
+CH07,Veg Hakka Noodles,Chinese,Main,32,10,7
+CH08,Chicken Fried Rice,Chinese,Main,34,10,8
+CH09,Steamed Rice,Chinese,Side,10,3,5
+CH10,Mango Pudding,Chinese,Dessert,20,3,4
+CH11,Jasmine Tea,Chinese,Beverage,12,3,4
+CO01,Chicken Wings,Continental,Starter,34,12,8
+CO02,Soup of the Day,Continental,Starter,22,5,4
+CO03,Classic Beef Burger,Continental,Main,48,12,10
+CO04,Grilled Chicken Burger,Continental,Main,42,12,7
+CO05,Fish and Chips,Continental,Main,50,14,6
+CO06,Grilled Salmon,Continental,Main,78,18,5
+CO07,Grilled Chicken with Mash,Continental,Main,52,16,6
+CO08,French Fries,Continental,Side,16,6,9
+CO09,Chocolate Brownie,Continental,Dessert,24,3,7
+CO10,New York Cheesecake,Continental,Dessert,28,3,5
+CO11,Chocolate Milkshake,Continental,Beverage,22,4,7
